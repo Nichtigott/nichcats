@@ -1,0 +1,7 @@
+require 'custom.options'
+-- require 'custom.ui.tabline'
+require 'custom.keymaps'
+require 'custom.autocmds'
+require 'custom.filetypes'
+require 'custom.lsp'
+require 'custom.lazy'
